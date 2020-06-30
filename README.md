@@ -1,3 +1,4 @@
 # CustomEmoji
 
-A description of this package.
+Download custom emoji from Slack
+
